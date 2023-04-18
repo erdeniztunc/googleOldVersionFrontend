@@ -1,0 +1,28 @@
+#main {
+    text-align: center;         /* içeriğinin yatay olarak ortalanmasını sağlar*/ 
+    margin-top: 120px;          /* 120px;: Elemanın üst kısmından 120 piksel uzaklık bırakır.*/
+    margin-left: auto;          /* auto; ve margin-right: auto;: Elemanın sol ve sağ kenarlarından eşit miktarda boşluk bırakarak, elemanın yatay merkezlenmesini sağlar.*/
+    margin-right: auto;
+    width: 90%;                 /* Elemanın genişliğini %90 olarak belirler.*/
+    padding: 0.3em;             /* 0.3em;: Elemanın içeriği ile kenarları arasındaki boşluğu (padding) sağ ve sol taraflarında 0.3em (yaklaşık 3 piksel) olarak ayarlar.*/
+  }
+  main section { /* HTML belgesinde <main> etiketi içindeki <section> etiketlerinin stilini belirler. */
+    float: left;
+    margin-top: 3px;
+    margin-left: 3px;
+    margin-bottom: 15px;
+  }
+  #block2 {
+    width: 294px;
+    margin-left: 0;
+    height: 100px;
+  }
+  #block3 {
+    width: 151px;
+    height: 100px;
+  }
+  #block4 {
+    width: 396px;
+    height: 100px;
+  }
+  
